@@ -1,2 +1,2 @@
 # wiki-api
-This is my first REST API
+This is my first RESTful API
